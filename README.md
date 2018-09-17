@@ -4,9 +4,6 @@ my game for liunx.
 * ddz
 * mj
 
-
-
-
 * 2018
 * test
 
@@ -29,3 +26,8 @@ m
 
 
 
+asdfa
+asdfasd
+asdfasdfa
+sd
+fas
