@@ -3,3 +3,4 @@ my game for liunx.
 
 * ddz
 * mj
+* test
