@@ -9,3 +9,23 @@ my game for liunx.
 
 * 2018
 * test
+
+
+
+
+
+aaaaaaaaaaaa
+sssssssss
+vvvvvvvvvvvv
+bbbbbbbbbbb
+nnnnnnnnnn
+nnnnnn
+mmmmmmmmm
+m
+
+
+
+
+
+
+
