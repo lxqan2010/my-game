@@ -17,6 +17,11 @@ my game for liunx.
 
 
 
+* 2020 al ala 
+* ala al alala ala al
+* laskdjas dflasasdfasldf
+* lskjfosdf alasdflasd
+
 
 
 
