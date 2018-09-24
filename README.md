@@ -1,32 +1,7 @@
 # my-game
-my game for liunx.
+my game for skynet.
 
-* ddz
-* mj
-
-
-
-
-
-
-* 2018
-
-
-
-
-
-
-
-* 2020 al ala 
-* ala al alala ala al
-* laskdjas dflasasdfasldf
-* lskjfosdf alasdflasd
-
-* 222222222222222222222222
-* 333333333333333333333333
-* aaaaa
-* bbbbb
-* ccccc
+> 项目没有完成，请不要拉取。
 
 
 
