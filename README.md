@@ -1,7 +1,7 @@
 # my-game
 my game for skynet.
 
-> 项目没有完成，请不要拉取。
+不是完整版本代码，不要下载
 
 
 

@@ -1,0 +1,8 @@
+require "luaext"
+require "utils"
+require "lib_redis"
+file_log = require "logger.plain_file"
+statistic_log = require "logger.statistic_file"
+lib_mysql = require "lib_mysql"
+local skynet = require "skynet"
+IS_DEBUG = skynet.getenv("logmode") == "DEBUG"
