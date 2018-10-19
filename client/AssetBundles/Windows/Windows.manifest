@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2169941658
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: download/uiperfab/uisceneview/uirootview.assetbundle
+      Dependencies:
+        Dependency_0: download/uisource/background/bg.assetbundle
+    Info_1:
+      Name: download/uiperfab/uiwindows/pan_messageview.assetbundle
+      Dependencies:
+        Dependency_0: download/uisource/background/bg.assetbundle
+        Dependency_1: download/uisource/background/bg_004.assetbundle
+        Dependency_2: download/uisource/background/button.assetbundle
+        Dependency_3: download/uisource/background/colse.assetbundle
+        Dependency_4: download/uisource/background/grid.assetbundle
+    Info_2:
+      Name: download/uiperfab/uiwindows/taskitemview.assetbundle
+      Dependencies:
+        Dependency_0: download/uisource/background/grid.assetbundle
+    Info_3:
+      Name: download/uisource/background/bg.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: download/uisource/background/bg_004.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: download/uisource/background/button.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: download/uisource/background/colse.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: download/uisource/background/grid.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: download/uisource/background/init.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: download/uisource/background/loading_bg.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: download/uisource/background/logon_bg.assetbundle
+      Dependencies: {}

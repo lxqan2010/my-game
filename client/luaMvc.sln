@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luaMvc", "luaMvc.csproj", "{52155E69-3F7A-0310-D5CE-88BAE7C8922F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luaMvc.Editor", "luaMvc.Editor.csproj", "{D83F156D-FA61-2C80-683F-187451B74930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52155E69-3F7A-0310-D5CE-88BAE7C8922F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52155E69-3F7A-0310-D5CE-88BAE7C8922F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52155E69-3F7A-0310-D5CE-88BAE7C8922F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52155E69-3F7A-0310-D5CE-88BAE7C8922F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83F156D-FA61-2C80-683F-187451B74930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83F156D-FA61-2C80-683F-187451B74930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83F156D-FA61-2C80-683F-187451B74930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83F156D-FA61-2C80-683F-187451B74930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

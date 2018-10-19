@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Root>
+  <AssetBundle>
+    <Item Name="Player预设" Tag="Role" IsFolder="True" IsFirstData="True">
+      <Path Value="Download\UIPerfab"/>
+    </Item>
+
+    <Item Name="NPC预设" Tag="Role" IsFolder="True" IsFirstData="True">
+      <Path Value="Download\UISource"/>
+    </Item>
+
+    <Item Name="NPC预设" Tag="Role" IsFolder="True" IsFirstData="True">
+      <Path Value="Download\XLuaLogic"/>
+    </Item>
+
+  </AssetBundle>
+</Root>

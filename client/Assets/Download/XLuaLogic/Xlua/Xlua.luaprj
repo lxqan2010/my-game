@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="Xlua.luaprj" Cmd="" Arg="" Dir="" Toggle="false" >
+    <Filter RelativePath=".\.." Toggle="false" >
+        <Filter RelativePath=".\Xlua" Toggle="false" >
+            <LuaFile RelativePath=".\Main.lua" />
+            <Filter RelativePath=".\Common" Toggle="false" >
+                <LuaFile RelativePath=".\Define.lua" />
+            </Filter>
+            <LuaFile RelativePath=".\CtrlManager.lua" />
+            <LuaFile RelativePath=".\GameInit.lua" />
+            <Filter RelativePath=".\GameCtrl" Toggle="false" >
+                <LuaFile RelativePath=".\UIRootCtrl.lua" />
+                <LuaFile RelativePath=".\MessageCtrl.lua" />
+            </Filter>
+            <Filter RelativePath=".\GameView" Toggle="false" >
+                <LuaFile RelativePath=".\UIRootView.lua" />
+                <LuaFile RelativePath=".\MessageView.lua" />
+            </Filter>
+            <Filter RelativePath=".\Template" Toggle="true" >
+                <LuaFile RelativePath=".\ViewTemplate.lua" />
+                <LuaFile RelativePath=".\CtrlTemplate.lua" />
+            </Filter>
+            <Filter RelativePath=".\Data" Toggle="false" >
+                <Filter RelativePath=".\Create" Toggle="false" >
+                    <LuaFile RelativePath=".\MessageDBModel.lua" />
+                    <LuaFile RelativePath=".\MessageEntity.lua" />
+                </Filter>
+                <LuaFile RelativePath=".\DBModelMgr.lua" />
+                <LuaFile RelativePath=".\MessageDBModelExt.lua" />
+            </Filter>
+            <Filter RelativePath=".\Proto" Toggle="false" >
+                <LuaFile RelativePath=".\Message_SearchTaskProto.lua" />
+                <LuaFile RelativePath=".\Message_SearchTaskReyurnProto.lua" />
+            </Filter>
+        </Filter>
+    </Filter>
+</Project>
